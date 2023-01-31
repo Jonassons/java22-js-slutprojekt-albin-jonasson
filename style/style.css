@@ -1,0 +1,29 @@
+#image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+#flickr-form {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: fantasy;
+
+}
+
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+}
+img{
+    border: 1px solid gold;
+}
+
+  
